@@ -1,0 +1,3 @@
+Flask==2.x.x
+Werkzeug==2.x.x
+python-dotenv==1.x.x

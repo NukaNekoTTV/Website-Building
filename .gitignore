@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# SQLite DBs
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
